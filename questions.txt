@@ -1,0 +1,43 @@
+Qno,Questions,label
+Q1,What trivial things upset you.,S
+Q2,In what scenarios you have felt your mouth become dry.,S
+Q3,When and why could not you experience any positive feelings at all.,S
+Q4,"What situations make you experience breathing difficulty (eg, excessively rapid breathing, breathlessness in the absence of physical exertion).",A
+Q5,When did you feel you had a lack of motivation to do anything.,S
+Q6,When and why do you over-react to situations.,S
+Q7,"When and why do you have a feeling of shakiness (eg, legs going to give way).",D
+Q8,In what scenarios you find it difficult to relax.,S
+Q9,Why do you find yourself in situations that made you so anxious that you were most relieved when they ended.,S
+Q10,Why do you feel that you have nothing to look forward to.,A
+Q11,Why do you find yourself getting upset rather easily.,S
+Q12,Why do you feel that you were using a lot of nervous energy.,A
+Q13,Why and when do you feel sad and depressed.,A
+Q14,"Why do you find yourself getting impatient when you were delayed in any way (eg, elevators, traffic lights, being kept waiting).",D
+Q15,In what scenarios do you have a feeling of faintness.,A
+Q16,Why did you feel that you had lost interest in just about everything.,A
+Q17,Why do you feel that you were not worth much as a person.,A
+Q18,Why do you feel that you were rather touchy.,D
+Q19,"In what scenarios do you perspire noticeably (eg, hands sweaty) in the absence of high temperatures or physical exertion.",D
+Q20,Why and when do you feel scared without any good reason.,A
+Q21,What makes you feel that life is not worthwhile.,S
+Q22,When and why do you find it hard to wind down.,A
+Q23,In what scenarios do you have difficulty in swallowing.,S
+Q24,When and why could not seem to get any enjoyment out of the things I did.,D
+Q25,"When were you aware of the action of your heart in the absence of physical exertion (eg, sense of heart rate increase, heart missing a beat).",S
+Q26,Why and when do you feel down-hearted and blue.,A
+Q27,When do you feel very irritable.,D
+Q28,When and why were you close to panic.,A
+Q29,Why do you find it hard to calm down after something upsets you.,A
+Q30,What makes you fear that you would be thrown by some trivial but unfamiliar task.,S
+Q31,Why were you unable to become enthusiastic about anything.,S
+Q32,Why did you find it difficult to tolerate interruptions to what you were doing.,D
+Q33,When were you in a state of nervous tension.,S
+Q34,Why and when do you feel pretty worthless.,D
+Q35,When were you intolerant of anything that kept you from getting on with what you were doing.,A
+Q36,What makes you feel terrified.,A
+Q37,Why could you see nothing in the future to be hopeful about.,S
+Q38,When and why did you feel that life was meaningless.,D
+Q39,Why and when do you find yourself getting agitated.,D
+Q40,Why were you worried about situations in which you might panic and make a fool of yourself.,A
+Q41,"Why do you experience trembling (eg, in the hands).",S
+Q42,What makes it difficult for you to work up the initiative to do things.,S

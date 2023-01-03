@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742490401651",
+    "project_id": "das-getx-app",
+    "storage_bucket": "das-getx-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742490401651:android:4d50c6c0d2d1960c3ab306",
+        "android_client_info": {
+          "package_name": "com.example.Dasapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742490401651-qu8tkf8r2d3lmou0412vjortau1p3f82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv_gK9JGJwRpKrdHovpmotDWTMwAjS6vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742490401651-qu8tkf8r2d3lmou0412vjortau1p3f82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
